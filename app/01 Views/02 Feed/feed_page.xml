@@ -1,0 +1,15 @@
+<Page id="feed_page" loaded="onLoaded" navigatedTo="onNavigatedTo" xmlns:customUI="~/04 Custom UI">
+    <GridLayout class="gradientBg" rows="auto,auto,auto,auto,*,auto">
+
+        <GridLayout height="10%" class="topBar" row="0" columns="20,*">
+            <Label col="1" class="h1" text="{{'Welcome, ' + user.first_name + ' ' + user.last_name}}"/>
+        </GridLayout>
+
+        <StackLayout row="1">
+            <Button class="-primary" text="Back to Login" tap="logoutOnTap"/>
+        </StackLayout>
+        
+        <customUI:navbar row="5"/>
+        
+    </GridLayout>
+</Page>
