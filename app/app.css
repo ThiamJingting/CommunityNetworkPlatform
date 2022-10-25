@@ -1,0 +1,72 @@
+﻿Page {
+  color: black;
+}
+
+Button.-primary {
+  font-size: 18;
+  color: black;
+  font-size: 12%;
+  font-weight: bold;
+  background: rgb(170, 190, 239);
+}
+
+Button.-secondary {
+  font-size: 18;
+  color: black;
+  font-size: 12%;
+  font-weight: bold;
+  background: rgb(201, 201, 201);
+}
+
+.gradientBg {
+  background: linear-gradient(0deg,
+      rgb(255, 255, 255, 0.31) 40%,
+      rgb(119, 149, 224) 100%);
+}
+
+.h1 {
+  font-size: 25%;
+  font-weight: bold;
+  margin: 2;
+}
+
+.h2 {
+  font-size: 15%;
+  font-weight: bold;
+  margin: 2%;
+}
+
+.hyperlink {
+  text-decoration: underline;
+}
+
+.fineprint {
+  font-size: 10%;
+  color: rgb(55, 55, 55);
+}
+
+.centered {
+  text-align: center;
+}
+
+.flex-center {
+  justify-content: center;
+  align-items: center;
+}
+
+.topBar {
+  padding: 15%, 0%, 15%, 0%;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.modalHeader {
+  padding: 10%;
+  font-size: 15%;
+  font-weight: bold;
+  background: linear-gradient(0deg,
+      rgb(169, 188, 238) 40%,
+      rgb(119, 149, 224) 100%);
+}

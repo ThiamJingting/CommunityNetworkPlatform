@@ -1,0 +1,145 @@
+{
+    "lobangs" : [
+        {
+            "lobang_id" : "1",
+            "lobang_name" : "Punggol Groceries Groupbuy (MOCK)",
+            "categories" : ["Groceries"],
+            "description" : "Groceries GroupBuy for the Punggol Community!",
+            "min_order" : "2",
+            "location" : "PUNGGOL",
+            "collection_date" : "2022-10-21T12:00:00",
+            "last_order_date" : "2022-10-07T23:59:00",
+            "tags" : ["groceries", "punggol", "community"],
+            "products" : [
+                {
+                    "product_id" : "1",
+                    "picture" : null,
+                    "name" : "Hom Mali Rice",
+                    "price" : 8.90,
+                    "max_quantity" : 30,
+                    "description" : "Thai Hom Mali is the highest grade of long grain superior rice with an aromatic fragrance. Premium new import from Thailand!",
+                    "unit_qty" : "1 pkt"
+                },
+                {
+                    "product_id" : "2",
+                    "picture" : null,
+                    "name" : "Sunflower Oil",
+                    "price" : 3.20,
+                    "max_quantity" : 50,
+                    "description" : "Crane brand, factory surplus. Clearance price!",
+                    "unit_qty" : "1 bottle"
+                }
+            ],
+            "announcements" : [
+                {
+                    "announcement_id" : "2",
+                    "datetime" : "2022-10-01T23:59:00",
+                    "description" : "Closing group buy in 6 days! Submit your orders today!",
+                    "picture" : ""
+                }
+            ],
+            "coverPicture" : "https://images.unsplash.com/photo-1588964895597-cfccd6e2dbf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Z3JvY2VyaWVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+            "createdBy" : "lobang_king",
+            "coins" : "0",
+            "joined" : [],
+            "lobang_status" : "ACTIVE"
+        },
+        {
+            "lobang_id" : "2",
+            "lobang_name" : "Cheap Electronics Groupbuy (MOCK)",
+            "categories" : ["Electronics", "Technology"],
+            "description" : "The cheapest electronics sourced from chinese wholesaler, new products added daily!",
+            "min_order" : "1",
+            "location" : "PUNGGOL",
+            "collection_date" : "2022-12-30T18:30:00",
+            "last_order_date" : "2022-12-01T23:59:00",
+            "tags" : ["electronics", "tech", "computer", "laptop", "mobile"],
+            "products" : [
+                {
+                    "product_id" : "3",
+                    "picture" : null,
+                    "name" : "UGREEN USB-C 7-in-1 Hub",
+                    "price" : 35.40,
+                    "max_quantity" : 10,
+                    "description" : "Almost $20 savings! Reject sets: expect minor cosmetic flaws."
+                },
+                {
+                    "product_id" : "4",
+                    "picture" : null,
+                    "name" : "OEM USB-C Laptop Charger (30W/65W/95W)",
+                    "price" : 13.50,
+                    "max_quantity" : 60,
+                    "description" : "OEM replacement charger for your laptops. USB C type. Indicate 1 qty for 30W, 2 qty for 65W, 3 for 95W."
+                }
+            ],
+            "announcements" : [],
+            "coverPicture" : "https://images.unsplash.com/photo-1550009158-9ebf69173e03?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZWxlY3Ryb25pY3N8ZW58MHx8MHx8&auto=format&fit=crop&w=700&q=60",
+            "createdBy" : "lobang_king",
+            "coins" : "0",
+            "joined" : [],
+            "lobang_status" : "ACTIVE"
+        },
+        {
+            "lobang_id" : "3",
+            "lobang_name" : "Urban Outfitters Groupbuy (MOCK)",
+            "categories" : ["Apparel"],
+            "description" : "Urban Outfitter's warehouse clearance groupbuy!",
+            "min_order" : "1",
+            "location" : "CLEMENTI",
+            "collection_date" : "2023-01-21T12:00:00",
+            "last_order_date" : "2022-12-30T23:59:00",
+            "tags" : ["fashion", "clothes", "sale"],
+            "products" : [
+                {
+                    "product_id" : "5",
+                    "picture" : null,
+                    "name" : "Classic Crew Tee (M)",
+                    "price" : 13.90,
+                    "max_quantity" : 20,
+                    "description" : "UO's Classic Crew Tee for men",
+                    "unit_qty" : "1 pc"
+                },
+                {
+                    "product_id" : "6",
+                    "picture" : null,
+                    "name" : "Classic Tee (F)",
+                    "price" : 13.90,
+                    "max_quantity" : 20,
+                    "description" : "UO's Classic Tee for women",
+                    "unit_qty" : "1 pc"
+                },
+                {
+                    "product_id" : "7",
+                    "picture" : null,
+                    "name" : "Cargo Shorts",
+                    "price" : 23.90,
+                    "max_quantity" : 20,
+                    "description" : "Multi-purpose cargo shorts for all situations",
+                    "unit_qty" : "1 pc"
+                },
+                {
+                    "product_id" : "8",
+                    "picture" : null,
+                    "name" : "Khakis",
+                    "price" : 23.90,
+                    "max_quantity" : 20,
+                    "description" : "UO's standard Khakis, in dark blue colorway",
+                    "unit_qty" : "1 pc"
+                }
+            ],
+            "announcements" : [
+                {
+                    "announcement_id" : "1",
+                    "datetime" : "2022-12-20T23:59:00",
+                    "description" : "Closing group buy in 10 days! Submit your orders today!",
+                    "picture" : ""
+                }
+            ],
+            "coverPicture" : "https://images.unsplash.com/photo-1597242261552-e4bfc7618aea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+            "lobang_host" : "lobang_queen",
+            "coins" : "0",
+            "joined" : ["lobang_king"],
+            "lobang_status" : "ACTIVE"
+        }
+    ]
+}
